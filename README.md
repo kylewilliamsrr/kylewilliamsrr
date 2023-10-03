@@ -9,7 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Utilizing Azure](https://github.com/kylewilliamsrr/azure-utilizations)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kylewilliamsrr/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kylewilliamsrr/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
