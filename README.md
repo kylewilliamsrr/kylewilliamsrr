@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Utilizing Azure](https://github.com/kylewilliamsrr/azure-utilizations)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kylewilliamsrr/configure-ad)
+- <b>HTML</b>
+  - [Using Basic HTML](https://github.com/kylewilliamsrr/html)
 
 <h2>🤳Connect with me:</h2>
 
